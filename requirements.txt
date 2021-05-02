@@ -2,3 +2,4 @@ streamlit==0.79.0
 pafy==0.5.5
 python-vlc==3.0.12118
 google-api-python-client==2.2.0
+youtube-dl==2021.4.17
